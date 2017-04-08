@@ -1,7 +1,3 @@
-//
-// Copyright (c) 2011-2017 by Curalate, Inc.
-//
-
 package com.devhorts.binpack
 
 case class BitValue(index: Int, container: Long, bitNumber: Int) {
