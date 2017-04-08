@@ -1,8 +1,4 @@
-//
-// Copyright (c) 2011-2017 by Curalate, Inc.
-//
-
-package com.example.lru
+package com.devhorts.lru
 
 import scala.collection.mutable
 

@@ -1,4 +1,4 @@
-package com.example.lru
+package com.devhorts.lru
 
 import org.scalatest.{FlatSpec, Matchers}
 
